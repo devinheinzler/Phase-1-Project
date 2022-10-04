@@ -1,0 +1,94 @@
+{
+    "games": [
+        {
+            "id": 1,
+            "name": "Star Wars: Battlefront II",
+            "dev": "Pandemic Studios",
+            "image": "https://www.bing.com/th?id=OSK.143d545342bff8e6bc273a5b6ad4bd5f&w=124&h=168&c=7&o=6&pid=SANGAM",
+            "platform": "Playstation 2",
+            "genre": "Shooter",
+            "description": "Star Wars: Battlefront II is a 2005 first-person shooter and third-person shooter video game based on the Star Wars film franchise.",
+            "hours": 0
+        },
+        {
+            "id": 2,
+            "name": "RuneScape",
+            "dev": "Jagex",
+            "image": "https://www.bing.com/th?id=Ae956c3776fd4cf20404444eb7c482b62&w=188&h=132&c=7&o=6&pid=SANGAM",
+            "platform": "PC",
+            "genre": "MMO",
+            "description": "a fantasy massively multiplayer online role-playing game (MMORPG) developed and published by Jagex, first released in January 2001.",
+            "hours": 0
+        },
+        {
+            "id": 3,
+            "name": "Call of Duty: Black Ops II",
+            "dev": "Treyarch",
+            "image": "https://www.bing.com/th?id=A07c463760b7485d25ff2b678ab93bf16&w=124&h=168&c=7&o=6&pid=SANGAM",
+            "platform": "Xbox 360",
+            "genre":"Shooter",
+            "description": "Call of Duty: Black Ops II is a 2012 first-person shooter video game developed by Treyarch and published by Activision.",
+            "hours": 0
+        },
+        {
+            "id": 4,
+            "name": "Destiny",
+            "dev": "Bungie",
+            "image": "https://www.bing.com/th?id=OSK.5d871ade7e03812f724a23854b03a723&w=124&h=168&c=7&o=6&pid=SANGAM",
+            "platform": "Xbox 360",
+            "genre":"Shooter",
+            "description": "Destiny is an online-only multiplayer first-person shooter video game developed by Bungie and previously published by Activision.",
+            "hours": 0
+        },
+        {
+            "id": 5,
+            "name": "World of Warcraft",
+            "dev": "Blizzard Entertainment",
+            "image": "https://www.bing.com/th?id=Ae45fbd02c149995ab1970551df3904d3&w=116&h=168&c=7&o=6&oif=webp&pid=SANGAM",
+            "platform":"PC",
+            "genre":"MMO",
+            "description": "A massively multiplayer online role-playing game (MMORPG) released in 2004 by Blizzard Entertainment.",
+            "hours": 0
+        },
+        {
+            "id": 6,
+            "name": "Diablo III",
+            "dev": "Blizzard Entertainment",
+            "image": "https://www.bing.com/th?id=OSK.34afec13b2b9dec92f0e5a98daac2b18&w=116&h=168&c=7&o=6&oif=webp&pid=SANGAM",
+            "platform":"PC",
+            "genre":"MMO",
+            "description": "A hack-and-slash action role-playing game developed and published by Blizzard Entertainment as the third installment in the Diablo franchise.",
+            "hours": 0
+        },
+        {
+            "id": 7,
+            "name": "The Elder Scrolls Online: Tamriel Unlimited",
+            "dev": "ZeniMax Online Studios",
+            "image": "https://www.bing.com/th?id=OSK.0a55611d1ee2be34173a5e01e55b10fd&w=124&h=168&c=7&o=6&pid=SANGAM",
+            "platform":"PC/Xbox One",
+            "genre":"MMO",
+            "description": "The Elder Scrolls Online, abbreviated ESO, is a massively multiplayer online role-playing game (MMORPG) developed by ZeniMax Online Studios and published by Bethesda Softworks. It was released for Windows and OS X in April 2014. It is a part of the Elder Scrolls series.",
+            "hours": 0
+        },
+        {
+            "id": 8,
+            "name": "Titanfall",
+            "dev": "Respawn Entertainment",
+            "image": "https://www.bing.com/th?id=A8a24184121c00270d69d45e6ee81318e&w=188&h=132&c=7&o=6&pid=SANGAM",
+            "platform":"Xbox 360",
+            "genre":"Shooter",
+            "description": "In Titanfall, players control Pilots and their mech-style Titans, and fight in six-on-six matches set in the war-torn outer space colonies of the Frontier. The game is optimized for fast-paced, continual action, aided by wall-running abilities and populations of computer-controlled soldiers. Other titles in the series includes unique characters who are able to use special abilities.",
+            "hours": 0
+        },
+        {
+            "id": 9,
+            "name": "Titanfall 2",
+            "dev": "Respawn Entertainment",
+            "image": "https://www.bing.com/th?id=OSK.e9de72646beb0ecf3a8c2de0c6dcc42a&w=124&h=168&c=7&o=6&pid=SANGAM",
+            "platform":"Xbox One",
+            "genre":"Shooter",
+            "description": "A sequel to 2014's Titanfall, the game was released worldwide on October 28, 2016, for Windows, PlayStation 4, and Xbox One. In Titanfall 2, players control Titans, mecha-style exoskeletons and their pilots, who are agile and equipped with a variety of skills ranging from wall-running to cloaking.",
+            "hours": 0
+        }
+    ]
+}
