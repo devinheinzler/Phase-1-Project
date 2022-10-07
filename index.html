@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
     <link rel="stylesheet" type="text/css" href="./style.css" />
     <script defer src="./src/index.js"></script>
 </head>
@@ -12,10 +8,51 @@
     <header>
         <h1>GAMER'S GAMBIT</h1>
     </header>
+    <p class="p">Author's Note:
+        The initial list of games you're seeing are my favorite games of all time. These could be games that I 
+        just had a lot of fun with, or they could be games that shaped my perception of games as a whole. They 
+        range from intense character-building and time investments to precisely honed mechanical skills. But what 
+        do they ALL have in common? They belong to my favorite 19,577 hours of my life. I hope you can use this to 
+        archive those same favorite hours you've spent in your favorite games :)
+    </p>
     <div class="list-container">
         <nav class="game-list" id="game-list">
             <!-- listed games will go here from JS -->
         </nav>
+
+
+        <section class="game-details">
+            <img id="detail-image" src="" />
+            <div>
+            <h2 id="detail-title"></h2>
+            <h3>Developer: <span id="game-dev"></span></h3>
+            <h3>Genre: <span id="game-genre"></span></h3>
+            <h3>Hours Played: <span id="hours-played">1</span></h3>
+            <h3>Platform: <span id="user-platform"></span></h3>
+            <form id="hours-played-form">
+                <input id="hours-amount" type="text" />
+                <input id="button" type="submit" id="hours-btn" />
+            </form>
+        </div>
+    </section>
+    <form id="new-game-form">
+        <label for="game-name-input">New Game Name:</label>
+        <input type="text" name="game-name-input">
+
+        <label for="game-dev-input">Game Developer Name:</label>
+        <input type="text" name="game-dev-input">
+
+        <label for="game-genre-input">Game Genre:</label>
+        <input type="text" name="game-genre-input">
+
+        <label for="game-image-input">Game Image URL:</label>
+        <input type="text" name="game-image-input">
+
+        <label for="user-platform-input">Preferred Platform:</label>
+        <input type="text" name="user-platform-input">
+
+        <input type="submit" value="Add Game" id="btn">
+    </form>
     </div> 
 </body>
 </html>
